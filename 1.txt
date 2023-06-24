@@ -1,0 +1,36 @@
+#
+# chi̍t -> 1
+# sò͘-jī -> 0-9
+#
+chitkang 1-kang
+chite 1-ê
+chitchiah 1-chiah
+chitliap 1-lia̍p
+chithoe 1-hòe
+chitki 1-ki
+chitkiann 1-kiāⁿ
+chitchhut 1-chhut
+chitpoe 1-poe
+chitoann 1-óaⁿ
+chitkoan 1-koàn
+chittiunn 1-tiuⁿ
+chitsiang 1-siang
+chitpun 1-pún
+chitte 1-tè
+chitchoo 1-chō͘
+chitme 1-mê
+chitam 1-àm
+teit tē-1
+teji tē-2
+tesann tē-3
+paiit pài-1
+paiji pài-2
+paisann pài-3
+paisi pài-4
+paigoo pài-5
+pailak pài-6
+thauchitkang thâu-1-kang
+thauchitpian thâu-1-piàn
+thauchittau thâu-1-táu
+thauchitpai thâu-1-pái
+thauchitkai thâu-1-kái

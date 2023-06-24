@@ -1,0 +1,5 @@
+#
+# 在以下 %chardef begin 到 %chardef end 之間
+# 置入自訂詞彙，存檔後即可使用
+#
+%chardef begin
