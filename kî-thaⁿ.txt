@@ -43,7 +43,15 @@ kichhoo 基礎
 khinsianntiau khin-siaⁿ-tiāu
 khinsianntiau khin-siaⁿ-tiāu
 khst khin-siaⁿ-tiāu
-taijitian 台字田
-tjt 台字田
+taijichhan 台字田
+tjchh 台字田
 poeng pò-èng
 posiu pò-siû
+punsochhi pùn-sò-chhī
+pschh pùn-sò-chhī
+punsochhia pùn-sò-chhia
+pschh pùn-sò-chhia
+putjiko put-jī-kò
+pjk put-jī-kò
+putko put-kò
+sasimih sa-sí-mih
