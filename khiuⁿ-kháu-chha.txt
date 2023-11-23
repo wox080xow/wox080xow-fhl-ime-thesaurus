@@ -1,0 +1,40 @@
+#
+# Khiuⁿ-kháu-chha Choan-iōng
+#
+ir Ṳ
+ir ṳ
+ii Ṳ
+ii ṳ
+ur Ṳ
+ur ṳ
+ur2 Ṳ́
+ur2 ṳ́
+ur3 Ṳ̀
+ur3 ṳ̀
+ur5 Ṳ̂
+ur5 ṳ̂
+ur7 Ṳ̄
+ur7 ṳ̄
+er O̤
+er o̤
+or O̤
+or o̤
+or2 Ó̤
+or2 ó̤
+or3 Ò̤
+or3 ò̤
+or5 Ô̤
+or5 ô̤
+or7 Ō̤
+or7 ō̤
+#
+# Khiuⁿ-kháu-chha Sû-lūi
+#
+hur hṳ̂
+tur tṳ̄
+kor kò̤
+khur khṳ̀
+korkhur kò̤-khṳ̀
+bor bô̤
+hor hó̤
+horchhia hó̤-chhia
