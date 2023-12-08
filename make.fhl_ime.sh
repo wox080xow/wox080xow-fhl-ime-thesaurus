@@ -1,3 +1,5 @@
+#!/bin/zsh
+
 filename="fhl_ime.txt"
 head="head.fhl_ime.txt"
 foot="foot.fhl_ime.txt"
