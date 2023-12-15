@@ -27,6 +27,8 @@ or5 Ô̤
 or5 ô̤
 or7 Ō̤
 or7 ō̤
+or8 O̤̍̍
+or8 o̤̍̍
 #
 # Khiuⁿ-kháu-chha Sû-lūi
 #
@@ -38,3 +40,4 @@ korkhur kò̤-khṳ̀
 bor bô̤
 hor hó̤
 horchhia hó̤-chhia
+borh8 bo̤̍̍h
