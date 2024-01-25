@@ -14,3 +14,4 @@ chip8 緝
 chhui3 喙
 bat 捌
 lim 啉
+ti7 佇
