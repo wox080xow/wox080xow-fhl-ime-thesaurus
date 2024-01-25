@@ -8,6 +8,7 @@ oo="oo.txt"
 kithann="kî-thaⁿ.txt"
 hunlui7="hun-lūi-07.txt"
 kip="kip.txt"
+chailai="chāi-lâi.txt"
 khkhchh="khiuⁿ-kháu-chha.txt"
 huho="hû-hō.txt"
 
@@ -24,6 +25,7 @@ catinto $oo
 catinto $kithann
 catinto $hunlui7
 catinto $kip
+catinto $chailai
 catinto $khkhchh
 catinto $huho
 catinto $foot
