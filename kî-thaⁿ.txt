@@ -121,3 +121,6 @@ atoh ā-to̍h
 mme m̄--mè
 taijichhan 台字田
 tjc 台字田
+tjchh 台字田
+khokkhok 硞硞
+
