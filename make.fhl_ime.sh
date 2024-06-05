@@ -11,6 +11,7 @@ kip="kip.txt"
 chailai="chāi-lâi.txt"
 khkhchh="khiuⁿ-kháu-chha.txt"
 huho="hû-hō.txt"
+e5="ê.txt"
 
 function catinto(){
     cat $1 >> $filename
@@ -29,3 +30,4 @@ catinto $chailai
 catinto $khkhchh
 catinto $huho
 catinto $foot
+catinto $e5
